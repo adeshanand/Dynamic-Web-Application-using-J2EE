@@ -1,0 +1,73 @@
+@CHARSET "ISO-8859-1";
+/*#first {
+	text-align:center;
+	font-size: 51px;
+}*/
+@font-face {
+font-family: "BAUHS93";
+src: url(BAUHS93.TTF);
+}
+@font-face {
+font-family: "ARLRDBD";
+src: url(ARLRDBD.TTF);
+}
+@font-face {
+font-family: "KozGoPro-Light";
+src: url(KozGoPro-Light.otf);
+}
+#head_container {
+	margin:0px;
+	padding:0px;
+	height:150px;
+	display:block;
+	background:url(bground.png) repeat-x;
+}
+#logo {
+	margin:0px;
+	padding:17px;
+	float:left;
+}
+#banner {
+	margin:auto;
+	padding:0px;
+	text-align:center;
+}
+#header21 {
+	margin:auto;
+	padding:0px;
+	color:#000066;
+	font-family:"BAUHS93";
+	font-size:36px;
+}
+#header22 {
+	margin:auto;
+	padding:0px;
+	color:#FF0000;
+	font-family:"ARLRDBD", Times, serif;
+	font-size:18px;
+}
+#header23 {
+	margin:auto;
+	padding:0px;
+	color:#0066CC;
+	font-family:"KozGoPro-Light", Times, serif;
+	font-size:24px;
+}
+#header24 {
+	margin:auto;
+	padding:0px;
+	color:#0066CC;
+	font-family:"KozGoPro-Light", Times, serif;
+	font-size:24px;
+}
+#second {
+	text-align:right;
+	padding-right:20px;
+	font: 18px bolder;
+}
+a {
+	text-decoration:none;
+	}
+a:hover {
+	color:#006600;
+}

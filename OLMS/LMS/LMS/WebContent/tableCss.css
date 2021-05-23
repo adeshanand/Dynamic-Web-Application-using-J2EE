@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+table.spclTable{
+margin:auto;
+padding:0px;
+border:1px solid #342437;
+background:#66FFFF;
+}
+table.spclTable th{
+margin:0px;
+padding:10px;
+background:#342437;
+border:none;
+color:#FFFFFF;
+text-align:center;
+vertical-align:middle;
+}
+table.spclTable tr{
+margin:0px;
+padding:0px;
+}
+table.spclTable td{
+margin:0px;
+padding:5px;
+text-align:center;
+vertical-align:middle;
+border:1px solid #342437;
+}

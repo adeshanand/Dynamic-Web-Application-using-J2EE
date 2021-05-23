@@ -1,0 +1,131 @@
+@CHARSET "ISO-8859-1";
+@font-face {
+font-family: "BAUHS93";
+src: url(BAUHS93.TTF);
+}
+@font-face {
+font-family: "ARLRDBD";
+src: url(ARLRDBD.TTF);
+}
+@font-face {
+font-family: "KozGoPro-Light";
+src: url(KozGoPro-Light.otf);
+}
+body {
+	margin:0px;
+	padding:0px;
+}
+#wrapper{
+margin:auto;
+padding:0px;
+}
+#head_container {
+	margin:0px;
+	padding:0px;
+	height:150px;
+	display:block;
+	background:url(bground.png) repeat-x;
+}
+#logo {
+	margin:0px;
+	padding:17px;
+	float:left;
+}
+#banner {
+	margin:auto;
+	padding:0px;
+	text-align:center;
+}
+#header21 {
+	margin:auto;
+	padding:0px;
+	color:#000066;
+	font-family:"BAUHS93";
+	font-size:36px;
+}
+#header22 {
+	margin:auto;
+	padding:0px;
+	color:#FF0000;
+	font-family:"ARLRDBD", Times, serif;
+	font-size:18px;
+}
+#header23 {
+	margin:auto;
+	padding:0px;
+	color:#0066CC;
+	font-family:"KozGoPro-Light", Times, serif;
+	font-size:24px;
+}
+#header24 {
+	margin:auto;
+	padding:0px;
+	color:#0066CC;
+	font-family:"KozGoPro-Light", Times, serif;
+	font-size:24px;
+}
+#body_container {
+	margin:0px;
+	padding-top:65px;
+	padding-bottom:65px;
+}
+#login_panel{
+margin:auto;
+padding-top:85px;
+padding-bottom:85px;
+width:500px;
+color:#FFFF33;
+font-size:14px;
+text-align:center;
+background: #0033CC url(bground_login.png) repeat-y;
+border-radius:20px;
+}
+input.lgi{
+margin:5px;
+padding:0px;
+height:30px;
+width:200px;
+font-size:24px;
+text-align:center;
+border-radius:5px;
+background: #FFFFFF url(input.png) repeat-x;
+}
+input.lgi:hover{
+background:#00FFFF url(light.png);
+}
+.lgt{
+margin:0px;
+padding:0px;
+color:#FFFFFF;
+font-size:24px;
+}
+#lgs{
+margin:0px;
+padding-top:5px;
+padding-bottom:5px;
+padding-right:10px;
+padding-left:10px;
+border-radius:5px;
+height:40px;
+width:100px;
+font-size:24px;
+background: #FFFFFF url(light2.png);
+}
+#lgs:hover{
+background:#66FF99 url(light2.png);
+}
+#footer {
+	margin:0px;
+	padding:0px;
+	background:#333333;
+	text-align:center;
+}
+#footer a {
+	font-size:24px;
+	text-decoration:none;
+	color:#33FFFF;
+}
+#footer a:hover {
+	text-decoration:none;
+	color:#00FF99;
+}

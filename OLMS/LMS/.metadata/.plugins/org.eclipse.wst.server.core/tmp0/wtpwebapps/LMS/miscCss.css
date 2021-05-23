@@ -1,0 +1,95 @@
+@CHARSET "ISO-8859-1";
+input[type="submit"] {
+margin:0px;
+padding-top:5px;
+padding-bottom:5px;
+padding-right:10px;
+padding-left:10px;
+border-radius:5px;
+height:40px;
+font-size:24px;
+background: #FFFFFF url(light2.png);
+}
+input[type="submit"]:hover{
+background:#66FF99 url(light2.png);
+}
+input[type="text"] {
+margin:5px;
+padding:0px;
+height:30px;
+width:250px;
+font-size:24px;
+text-align:center;
+background: #FFFFFF url(input.png) repeat-x;
+}
+input[type="password"] {
+margin:5px;
+padding:0px;
+height:30px;
+width:250px;
+font-size:24px;
+text-align:center;
+background: #FFFFFF url(input.png) repeat-x;
+}
+input[type="date"] {
+margin:5px;
+padding:0px;
+height:30px;
+width:250px;
+font-size:24px;
+text-align:center;
+background: #FFFFFF url(input.png) repeat-x;
+}
+input[type="number"] {
+margin:5px;
+padding:0px;
+height:30px;
+width:250px;
+font-size:24px;
+text-align:center;
+background: #FFFFFF url(input.png) repeat-x;
+}
+select {
+margin:5px;
+padding:0px;
+height:30px;
+width:250px;
+font-size:24px;
+}
+select#choiceYN{
+margin:5px;
+padding:0px;
+height:30px;
+width:80px;
+font-size:24px;
+}
+table.spclTable2 {
+margin:auto;
+padding:0px;
+border:1px solid #342437;
+background:#66FFFF;
+}
+table.spclTable2 td {
+margin:0px;
+padding:5px;
+vertical-align:middle;
+border:1px solid #342437;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

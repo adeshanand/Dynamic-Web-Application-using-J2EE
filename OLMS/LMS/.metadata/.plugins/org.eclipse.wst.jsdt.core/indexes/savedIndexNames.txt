@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+E:\My Projects J2EE\ONLINE_LIBRARY_MANAGEMENT_SYSTEM[AVS2]\LMS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2332624144.index
+1669639492.index
+1856645796.index
+2853814397.index
+3988740646.index
