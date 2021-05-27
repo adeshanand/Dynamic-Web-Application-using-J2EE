@@ -57,7 +57,7 @@ In the Project there is a folder Java Resources. It also has a sub-folder (src) 
 right click on web content => new html file => filename like col.html => next => finish*/
 
 
-make a servlet
+Make a servlet
 --------------
 #click on project explorer => click on servlet
 #(to make any servlet page we should extend it from httpservlet)
